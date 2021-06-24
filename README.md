@@ -1,10 +1,10 @@
 Hi, I’m Saumyaa, a 22 year old full-stack java engineer! 
 
 Here are the projects I have collaborated on: 
-* TriEco: https://github.com/oshevchuk27/Tri-Eco
-* Shelter Listing Web Application: https://github.com/zainabbatool/ShelterListingWebApp
-* Recipes Android Application: https://github.com/zainabbatool/RecipesAndroidApp
-* Game of Four JS: https://github.com/zainabbatool/GroupOfFourGameJavascript
+1. TriEco: https://github.com/oshevchuk27/Tri-Eco
+2. Shelter Listing Web Application: https://github.com/zainabbatool/ShelterListingWebApp
+3. Recipes Android Application: https://github.com/zainabbatool/RecipesAndroidApp
+4. Game of Four JS: https://github.com/zainabbatool/GroupOfFourGameJavascript
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
