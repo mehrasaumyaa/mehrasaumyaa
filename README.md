@@ -1,4 +1,4 @@
-Hi, I’m Saumyaa, a 22 year old full-stack java engineer! 
+Hi, I’m Saumyaa, a 23 year old former software engineer! 
 
 Here are the projects I have collaborated on: 
 1. TriEco: https://github.com/oshevchuk27/Tri-Eco
