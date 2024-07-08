@@ -1,5 +1,3 @@
-Hi, I’m Saumyaa, a 23 year old former software engineer! 
-
 Here are the projects I have collaborated on: 
 1. TriEco: https://github.com/oshevchuk27/Tri-Eco
 2. Shelter Listing Web Application: https://github.com/zainabbatool/ShelterListingWebApp
